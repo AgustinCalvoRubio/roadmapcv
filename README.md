@@ -1,2 +1,2 @@
 # roadmapcv
-Junior Front End Roadmap 01
+First steps of the roadmap for front end junior. Just run html.
